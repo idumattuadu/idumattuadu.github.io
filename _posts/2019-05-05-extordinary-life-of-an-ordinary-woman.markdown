@@ -4,8 +4,8 @@ title:  "Extraordinary Life Of An Ordinary Woman"
 date:   2019-05-05 22:38:39 +0530
 categories: jekyll update
 ---
-
 # Extraordinary Life Of An Ordinary Woman
+
 In the summer of 1944, a girl, aged about fifteen, arrived in a remote village in, what was then the state of Hyderabad and current day Karnataka. She had just married a young man from the village. She was from a far off town in the South Indian state of Tamil Nadu. She could speak only Tamil. She did not know Kannada, the language spoken in the village. Neither did she know Urdu, another language spoken there. The only other person who spoke her tongue was her new mother in law, through whom the marriage was arranged.
 
 She was told that she was marrying into an illustrious family which had fallen into hard times. So, while she should’ve expected the monetary situation of her new husband to be bad, she couldn’t have been faulted if she had imagined a decent house to live in. After all, her late father in law had been a senior bureaucrat in the Nizam’s (ruler of Hyderabad) government and supposed to have built an enormous estate for the family. But soon she would discover that her new house was nothing more than a shanty at best or an oversized hut at worst, in a big open plot. She would learn that the mother in law had a falling out with her husband’s brothers and had moved out of the family house with her sons, turning them into one of the poorest family from one of the, if not the, richest.
