@@ -4,7 +4,6 @@ title:  "Extraordinary Life Of An Ordinary Woman"
 date:   2019-05-05 22:38:39 +0530
 categories: jekyll update
 ---
-# Extraordinary Life Of An Ordinary Woman
 
 In the summer of 1944, a girl, aged about fifteen, arrived in a remote village in, what was then the state of Hyderabad and current day Karnataka. She had just married a young man from the village. She was from a far off town in the South Indian state of Tamil Nadu. She could speak only Tamil. She did not know Kannada, the language spoken in the village. Neither did she know Urdu, another language spoken there. The only other person who spoke her tongue was her new mother in law, through whom the marriage was arranged.
 
