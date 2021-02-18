@@ -16,12 +16,12 @@ My current project is to learn playing a flute (you thought of some techincal th
 
 You bring me joy<br>
 You make me smile<br>
-Out with you
+Out with you<br>
+I desire to travel many a mile
 
-I desire to travel many a mile<br>
 Glimpse of you bring me to deep thinking<br>
+And my dreary eyes they forget blinking
 
-And my dreary eyes they forget blinking<br>
 But when I am with you<br>
 The realisation is quite sudden<br>
-You are but a fruit forbidden!<br>
+You are but a fruit forbidden!
