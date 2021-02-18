@@ -4,7 +4,7 @@ title: My Projects
 permalink: /projects/
 ---
 
-# Projects
+## Projects
 
 This page contains the information about some of the projects that I get excited about or follow.
 
@@ -12,16 +12,16 @@ This page contains the information about some of the projects that I get excited
 
 My current project is to learn playing a flute (you thought of some techincal thingy? *gotcha!*). I am mostly learning this via some of the Youtube channels.
 
-# Poem
+## Poem
 
-You bring me joy
-You make me smile
+You bring me joy<br>
+You make me smile<br>
 Out with you
-I desire to travel many a mile
 
-Glimpse of you bring me to deep thinking
-And my dreary eyes they forget blinking
+I desire to travel many a mile<br>
+Glimpse of you bring me to deep thinking<br>
 
-But when I am with you
-The realisation is quite sudden
-You are but a fruit forbidden!
+And my dreary eyes they forget blinking<br>
+But when I am with you<br>
+The realisation is quite sudden<br>
+You are but a fruit forbidden!<br>
