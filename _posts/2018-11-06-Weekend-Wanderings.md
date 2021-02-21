@@ -2,7 +2,6 @@
 layout: post
 title: Weekend Wanderings
 date: 2018-01-06 14:47:05 +0530
-categories: Roadtrip Travel Friends
 ---
 
 Why do we like traveling? After all it entails a lot of planning and rituals that we a very averse to indulge in our day to day existence — waking up while it’s dark, cleaning up before dogs on the street have greeted each other Good Mornings and getting out of the city limits before the Sun had winked. I have done this a few times — at least twice a year and every time I have done this I had this question but never a convincing answer. It is also true that I have always returned with certain gaiety from these travels which I never fully understood why. Of course there were oft repeated terms like exploring cultures, discovering places or that primal desire of scaling distances that would pop up as probable answers but I could never articulate them in detail. In other words if you had asked me if I did enjoy my last travel/trip, then my answer would be a definite yes. However, if you had asked me what did you enjoy about it then I couldn’t have come up with a proper answer.

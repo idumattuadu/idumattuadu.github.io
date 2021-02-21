@@ -2,7 +2,6 @@
 layout: post
 title: Reductio Ad Absurdum - Motorcycles
 date: 2021-02-16 23:11:15 +0530
-categories: Motorcycles
 ---
 
 I deeply concur with what Sid Caesar had to say about wheels. While he said it in the context of four, I am going to use it for two. So, to paraphrase, 

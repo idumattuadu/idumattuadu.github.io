@@ -2,7 +2,6 @@
 layout: post
 title: Ticket To La La Land
 date: 2019-03-27 12:57:03 +0530
-categories: Nostalgia BusTrip Kerala
 ---
 
 It was supposed to be just another short bus journey; except it was in Kerala. And as I have realized after a couple of trips to that wonderous land of contradictions, there’s never a just-another-thing there. For example, you can’t go to just another temple there, because each of them are quite unique with different, elaborate customs of their own. You can’t go to just another town there, because, well for one, you wouldn’t know where one town ends and another begins. You can’t just drive through the highway there, because, the highways are nothing but a labyrinth passing through an unending town. You can’t go to just another… well, you get the drift.
