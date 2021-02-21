@@ -1,27 +1,17 @@
 ---
 layout: page
-title: My Projects
+title: Procrastinated Projects 
 permalink: /projects/
 ---
 
-## Projects
-
-This page contains the information about some of the projects that I get excited about or follow.
+This page contains the information about some of the projects that I get excited about and then put them into that cavernous shelf of procrastination.
 
 ## Flute
 
-My current project is to learn playing a flute (you thought of some techincal thingy? *gotcha!*). I am mostly learning this via some of the Youtube channels.
+My current project is to learn playing a flute (you thought of some techincal thingy? *gotcha!*). Diperate Youtube channels are my *gurus* in this endeavour
 
-## Poem
+## Guitar
 
-You bring me joy<br>
-You make me smile<br>
-Out with you<br>
-I desire to travel many a mile
+Learning to play a Guitar has been my *longest* project. I can play most of it now, only in my head! My fingers are still pretty shy in tugging those strings, you see.
 
-Glimpse of you bring me to deep thinking<br>
-And my dreary eyes they forget blinking
-
-But when I am with you<br>
-The realisation is quite sudden<br>
-You are but a fruit forbidden!
+Keep watching this space to get the latest and greatest about my exciting, new projects.
