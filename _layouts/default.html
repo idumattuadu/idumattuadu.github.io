@@ -7,7 +7,7 @@
   {%- include header.html -%}
   <table>
     <tr style="vertical-align: top;">
-      <td style="width: 20%;">
+      <td style="width: 20%;" class="invisible-on-palm">
         {%- if site.posts.size > 0 -%}
         <h2>Other posts</h2>
         {% for post in site.posts %}
@@ -28,7 +28,7 @@
           </div>
         </main>
       </td>
-      <td style="width: 20%">
+      <td style="width: 20%;" class="invisible-on-palm">
         <a class="twitter-timeline" data-width="400" data-height="600"
           href="https://twitter.com/_geekay5?ref_src=twsrc%5Etfw">Tweets by _geekay5</a>
       </td>
