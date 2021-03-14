@@ -29,6 +29,7 @@ url: "https://geekay5.github.io" # the base hostname & protocol for your site, e
 twitter_username: _geekay5
 github_username:  geekay5
 google_analytics: UA-190618649-1
+show_excerpts: yes
 # Build settings
 theme: minima
 plugins:
