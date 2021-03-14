@@ -1,0 +1,8 @@
+<div>
+    {% if page.previous.title %}
+    <a style="float: left;" href=" {{ page.previous.url | relative_url}}">Previous Post</a>
+    {% endif %}
+    {% if page.next.title %}
+    <a style="float: right;" href="{{ page.next.url | relative_url}}">Next Post</a>
+    {% endif %}
+</div>
