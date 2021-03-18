@@ -22,7 +22,7 @@ layout: default
         </a>
       </h3>
       {%- if site.show_excerpts -%}
-      {{ post.excerpt | strip_html | truncate: 250 }} <br><br>
+      {{ post.excerpt | strip_html | truncatewords: 40 }} <br><br>
       <a href="{{ post.url | relative.url }}">
         Read more · {{ post.content | number_of_words | divided_by: 200}} min read
       </a>
