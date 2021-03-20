@@ -8,7 +8,7 @@ I'll use this page to catalogue the books I have read and my ratings for them.
 
 My target for the year 2021 is to read 24 books. I'll keep updating the following table as and when I complete a book.
 
-| Name | Author | Genre | My Rating | Remarks |
+| Title | Author | Genre | My Rating | Remarks |
 |------|--------|-------|-----------|---------|
 | The Polymer Prince | Hamish McDonald | Non Fiction | 4 | Fascinating tale of the rise of Reliance |
 | The Great Indian Novel | Shashi Tharoor | Fiction | 4 | Mahabharata transformed into India's struggles before and after Independence |
