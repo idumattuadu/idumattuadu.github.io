@@ -2,6 +2,7 @@
 layout: post
 title: Playing Mr. Wolf
 date: 2021-02-18 17:52:53 +0530
+permalink: /blog/being-wolf
 ---
 
 Have you ever been embarrassed by a rather enthusiastic praise, for something that you felt was routine job? Perhaps, it was a case of sheer luck that you finished the job that brought you the laurels. Or, you were just the right man at the right place after multiple men had toiled hard solving the problem, ergo, leaving you uncomfortable for being glorified for something that happened by accident than design.

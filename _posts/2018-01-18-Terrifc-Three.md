@@ -2,6 +2,7 @@
 layout: post
 title: Terrific Three
 date: 2018-01-18 22:05:10 +0530
+permalink: /blog/terrific-three
 ---
 
 We all use a plethora of gadgets/devices in our day to day life. Many of them are unnecessary, yet we bought them for myriad reasons — impulse, peer pressures, et al. The excitement eventually wears off with these and you are only left with buyer’s remorse. My apartment is sprinkled with these things. I frequently end up buying pens that I don’t use after a day. I once bought a very high end Desktop computer believing that I’d be a gamer some day! I bought a guitar after listening to the ever enchanting [*chura liya hai tumne..*](https://www.youtube.com/watch?v=-KgeYnMFBAU) — the only time it makes a sound now is when the maid picks it up to clean the surface under it! I bought an iPhone... enough said.
