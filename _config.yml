@@ -21,9 +21,7 @@
 title: Procrastinated Thoughts
 email: gopalvkulkarni@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I used to blog on platforms like Blogger and Medium. I have finally taken my
-  web presence' destination in my hands. This will also teach me few things on
-  Web technologies.
+  A personal blog where I'll try to wax eloquent on gadgets, people and travels.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://geekay5.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _geekay5
