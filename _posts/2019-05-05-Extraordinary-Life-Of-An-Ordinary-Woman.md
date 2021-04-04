@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Extraordinary Life Of An Ordinary Woman"
 date:   2019-05-05 22:38:39 +0530
 permalink: /blog/extraordinary-life

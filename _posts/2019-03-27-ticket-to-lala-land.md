@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ticket To La La Land
 date: 2019-03-27 12:57:03 +0530
 permalink: /blog/ticket-to-lala-land

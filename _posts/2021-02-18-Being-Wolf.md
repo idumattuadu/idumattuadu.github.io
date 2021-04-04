@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Playing Mr. Wolf
 date: 2021-02-18 17:52:53 +0530
 permalink: /blog/being-wolf

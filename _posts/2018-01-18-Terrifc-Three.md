@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Terrific Three
 date: 2018-01-18 22:05:10 +0530
 permalink: /blog/terrific-three

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Horse Ride Experiment
 date: 2021-03-28 18:00:05 +0530
 permalink: /blog/horseride-experiment
