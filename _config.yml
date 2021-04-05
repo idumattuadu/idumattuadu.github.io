@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Gopal Kulkarni"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /images/GK.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Consummate Procrastinator."
   location         : "Bengaluru"
   email            : gopalvkulkarni@gmail.com
