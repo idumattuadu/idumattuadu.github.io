@@ -1,6 +1,7 @@
 ---
 title: Books
 permalink: /books
+author_profile: false
 ---
 
 I'll use this page to catalogue the books I have read and my ratings for them.

@@ -9,7 +9,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /images/bridge.jpeg
 intro: 
-  - excerpt: 'A place where I *wax eloquent* on people, vehicles, gadgets or whatever catches my fancy. It generally takes a long time for the thoughts to travel from mind to here; ergo the title of this site'
+  - excerpt: 'A place where I wax eloquent about travels, people, automobiles, gadgets or whatever catches my fancy. It generally takes a long time for the thoughts to travel from my mind to here; ergo the title of this site'
 feature_row:
   - image_path: /images/Blog.jpeg
     alt: "Blog Image"
