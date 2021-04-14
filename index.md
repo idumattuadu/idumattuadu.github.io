@@ -17,21 +17,21 @@ feature_row:
     excerpt: "My thoughts, much procrastinated as they were."
     url: "/blog"
     btn_label: "Take Me To The Blog"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
   - image_path: /images/Poems.png
     alt: "Poems Image"
     title: "Poems"
-    excerpt: "Are you brave enough to suffer my poems?"
+    excerpt: "Random thoughts in forced rhymes. Are you brave enough to suffer my poems?"
     url: "/poems"
     btn_label: "Yes, Give Me Poems"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
   - image_path: /images/Books.png
     alt: "Books Image"
     title: "Books"
     excerpt: "Books that I've read and my ratings for them with a succinct summary description."
     url: "/books"
     btn_label: "Show Me Books"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
 ---
 
 {% include feature_row id="intro" type="center" %}
