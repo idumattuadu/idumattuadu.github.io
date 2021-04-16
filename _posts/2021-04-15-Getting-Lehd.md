@@ -27,7 +27,7 @@ gallery:
   - image_path: /images/Leh/Leh_7.JPG
     alt: "Leh7 Image"
     title: "Kargil Memorial"
-    url: "//images/Leh/Leh_7.JPG"
+    url: "/images/Leh/Leh_7.JPG"
   - image_path: /images/Leh/Leh_8.JPG
     alt: "Leh8 Image"
     title: "The Martyrs"
