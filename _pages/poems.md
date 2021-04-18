@@ -1,6 +1,7 @@
 ---
 title: Poems
 permalink: /poems
+description: Attemptng amateur poetry
 ---
 
 ## Freedom

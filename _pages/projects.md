@@ -2,6 +2,7 @@
 title: Procrastinated Projects 
 permalink: /projects
 author_profile: false
+description: Pursuit of projects that bring happiness
 ---
 
 This page contains the information about some of the projects that I get excited about and then put them into that cavernous shelf of procrastination.

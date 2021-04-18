@@ -2,6 +2,7 @@
 title: Living The Dream
 date: 2016-04-12 17:55:05 +0530
 permalink: /blog/living-the-dream
+description: Long cherished dream of owning legendary Yamaha RX motorcycle
 ---
 
 Ever since I clung on to my dad’s belly on that rusty old Jawa, making her way through the village roads like, for the lack of better knowledge about animals, a wild cat in the fields chasing rabit, I have been fascinated by motorcycles. And dogs. Dogs since my trusted, old, pure desi, devoid-of-any-fancy-breed, Dog would follow the smoke spewed by the two pipes of that noisy Jawa, t o our fields. Fascinated enough to shed a tear or two when the dog died in the front-yard of our home and silently pray that my father would not let the Jawa go to a unknown guy from a place, unidentifiable on the map. But he did and so my trips with him to the fields stopped. No Jawa , no Dog, you see.

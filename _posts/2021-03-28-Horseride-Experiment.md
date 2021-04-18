@@ -2,6 +2,7 @@
 title: The Horse Ride Experiment
 date: 2021-03-28 18:00:05 +0530
 permalink: /blog/horseride-experiment
+description: What happens when three techies go horse riding to be adventurous
 ---
 
 Once upon a time in Bengaluru, my room mate, let’s call him M, and I were finding life to be quite mechanical. The hope of finding a Penny next door to our Sheldon and Leonard’s apartment had completely diminished without a Big Bang! To make it worse, we had practically become the robotic, office going, not-quite-mid-aged-yet-but-burnt-out couch potatoes whom we so hated back in the college. The sense of adventure or achievement was missing and excitement in general was lacking, we concurred. We did try an odd race (me on my beloved [RX](https://geekay5.github.io/blog/living-the-dream) against him on the bicycle) to home, from opposite directions in peak Bengaluru traffic to get that adrenaline rush going. (For the record, he won the race!). But the sense of an underwhelmed existence could never be kicked out.
