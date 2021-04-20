@@ -5,7 +5,7 @@ author_profile: false
 description: Books I have read and my ratings for them
 ---
 
-I'll try to keep this page updated with the interesting books that I have read and recomment.
+I'll try to keep this page updated with the interesting books that I have read and recommend.
 
 To begin with, this is a list of books I have read in 2021. The target for the year is to read 24 books. I'll keep updating the table as and when I complete a book.
 
