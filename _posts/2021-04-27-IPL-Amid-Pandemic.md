@@ -1,4 +1,7 @@
 ---
+header:
+    overlay_color: "#333"
+excerpt: "Is it wise to hold the IPL amidst a raging *chinese virus* pandemic"
 title: IPL Amid Pandemic
 date: 2021-04-27 18:10:15 +0530
 description: Is it okay for India to allow the IPL amidst a raging pandemic?
