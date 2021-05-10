@@ -288,3 +288,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# My Scripts
+
+head_scripts:
+  - /assets/js/locateVaccine.js
