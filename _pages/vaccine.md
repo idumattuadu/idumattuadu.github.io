@@ -6,9 +6,8 @@ author_profile: false
 classes: wide
 ---
 
-Please click the button below to locate a Vaccination Slot
+Please click the button below to locate a Vaccination Slot. We will keep polling for the available vaccination slots until found or the page is closed. It'll raise an alarm when it finds a slot.
 
-<br>
 <label for="district">District Code: 
 <input type="text" id="district" value="294"></label>
 
