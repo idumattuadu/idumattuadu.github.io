@@ -49,6 +49,7 @@ function findCenter(resp) {
     }
     return tableData;
 }
+var snd = new Audio('/assets/audio/alarm.mp3');
 
 function foundVaccine(tableData) {
     let addTh = true;
@@ -60,7 +61,6 @@ function foundVaccine(tableData) {
         addTh = false;
     }
     generateTable(table, tableData);
-    var snd = new Audio('/assets/audio/alarm.mp3');
     snd.play();
 }
 
@@ -83,6 +83,8 @@ function getDate() {
     return date;
 }
 
+var vaccineFound = false;
+
 async function locateVaccine() {
     var url = "https://cdn-api.co-vin.in/api/v2/appointment/sessions/calendarByDistrict"
 
@@ -92,8 +94,8 @@ async function locateVaccine() {
     var fullUrl = url + district + date;
     let head3 = document.querySelector("h3");
     document.getElementById("h3").innerHTML = "Finding Vaccine<div class=\"spinner-border\"></div>";
-    var vaccineFound = false;
 
+    vaccineFound = false;
     while (!vaccineFound) {
         let response = await fetch(fullUrl);
         if (response.ok) {
@@ -104,7 +106,12 @@ async function locateVaccine() {
             vaccineFound = true;
             foundVaccine(tableData);
         }
-        sleep(5000)
-        vaccineFound = true;
+        sleep(5000);
     }
+}
+
+function stopLooking() {
+    vaccineFound = true;
+    document.getElementById("h3").innerHTML = "Stopped";
+    snd.stop();
 }

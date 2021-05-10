@@ -16,6 +16,7 @@ Please click the button below to locate a Vaccination Slot
 <input type="text" id="age" value="18" title="Age 18 or 45"></label>
 
 <button type="button" class="btn-primary" onclick="locateVaccine()">Locate Vaccine</button>
+<button type="button" class="btn-primary" onclick="stopLooking()">Stop</button>
 
 [**Districts Codes**](https://www.geekay.xyz/VaccineLocator/)
 
