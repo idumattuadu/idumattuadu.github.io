@@ -14,10 +14,10 @@ Please click the button below to locate a Vaccination Slot. We will keep polling
 <label for="age">Vaccine For Age: 
 <input type="text" id="age" value="18" title="Age 18 or 45"></label>
 
-<button type="button" class="btn-primary" onclick="locateVaccine()">Locate Vaccine</button>
-<button type="button" class="btn-primary" onclick="stopLooking()">Stop</button>
+<button type="button" class="btn btn--info" onclick="locateVaccine()">Locate Vaccine</button>
+<button type="button" class="btn btn--info" onclick="stopLooking()">Stop</button>
 
-[**Districts Codes**](https://www.geekay.xyz/VaccineLocator/)
+*[**Districts Codes**](https://www.geekay.xyz/VaccineLocator/)
 
 <h3 id="h3"></h3>
 

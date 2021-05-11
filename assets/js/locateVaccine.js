@@ -93,7 +93,7 @@ async function locateVaccine() {
     district = "?district_id=" + dist_id;
     var fullUrl = url + district + date;
     let head3 = document.querySelector("h3");
-    document.getElementById("h3").innerHTML = "Finding Vaccine<div class=\"spinner-border\"></div>";
+    document.getElementById("h3").innerHTML = "Finding Vaccine...";
 
     vaccineFound = false;
     while (!vaccineFound) {
