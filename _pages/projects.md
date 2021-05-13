@@ -1,18 +1,11 @@
 ---
-title: Procrastinated Projects 
+title: My Projects 
 permalink: /projects
 author_profile: false
 description: Pursuit of projects that bring happiness
 ---
+## Vaccine Locator
 
-This page contains the information about some of the projects that I get excited about and then put them into that cavernous shelf of procrastination.
+With a raging pandemic caused by the *Chinese Virus* generally known as Covid-19, it's imperative that everyone should get vaccinated against it. But as the Vaccines are in short supply, it becomes difficult to know when the vaccination slots become available. This project aims to help the user to find a slot.
 
-## Flute
-
-My current project is to learn playing a flute (you thought of some techincal thingy? *gotcha!*). Diperate Youtube channels are my *gurus* in this endeavour
-
-## Guitar
-
-Learning to play a Guitar has been my *longest* project. I can play most of it now, only in my head! My fingers are still pretty shy in tugging those strings, you see.
-
-Keep watching this space to get the latest and greatest about my exciting, new projects.
+You can explore more on [github](https://github.com/geekay5/covid-vaccine-locator).

@@ -1,15 +1,13 @@
 main:
   - title: Blog
     url: /blog
-  - title: Find Vaccine
-    url: /vaccine-locator
   - title: Poems
     url: /poems
   - title: "Books"
     url: /books
   - title: Projects
     url: /projects
+  - title: Find Vaccine
+    url: /vaccine-locator
   - title: "About"
     url: /about
-  - title: "Contact"
-    url: /contact
