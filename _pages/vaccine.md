@@ -17,7 +17,7 @@ Please click the button below to locate a Vaccination Slot. We will keep polling
 <button type="button" class="btn btn--info" onclick="locateVaccine()">Locate Vaccine</button>
 <button type="button" class="btn btn--info" onclick="stopLooking()">Stop</button>
 
-*[**Districts Codes**](https://www.geekay.xyz/VaccineLocator/)
+*[**Districts Codes**](https://www.geekay.xyz/covid-vaccine-locator/)
 
 <h3 id="h3"></h3>
 
