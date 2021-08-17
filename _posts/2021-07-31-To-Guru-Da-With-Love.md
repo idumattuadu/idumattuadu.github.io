@@ -20,6 +20,5 @@ You know, *Da*, the thing that I have thought the most during these days is, it'
 
 I will lose a million arguments to you and a thousand arm wrestling bouts, if you were to come back. I know, *Da*, I know! I am being insane. But you've always challenged my sanity to the extreme...
 
-With Love
-(As you loved calling me) *KG*
+--With Love, *KG*
 
