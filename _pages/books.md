@@ -5,7 +5,7 @@ author_profile: false
 description: Books I have read and my ratings for them
 ---
 
-I'll try to keep this page updated with the interesting books that I have read and recommend.
+I'll try to keep this page updated with the books that I have read and recommend.
 
 To begin with, this is a list of books I have read in 2021. The target for the year is to read 24 books. I'll keep updating the table as and when I complete a book.
 
@@ -16,3 +16,5 @@ To begin with, this is a list of books I have read in 2021. The target for the y
 | Life over Two Beers and other stories | Sanjeev Sanyal | Fiction | 3 | Intimate and intriguing details of Indian liberals' modus operandi |
 | Eminent Historians: Their Technology, Their Line, Their Fraud | Arun Shourie | Non-Fiction | 5 | Must read for any thinking Indian |
 | Six Suspects | Vikas Swarup | Fiction | 3.5 | Breezy suspense thriller |
+| 'Jeh' A Life Of J.R.D. Tata | Bakhtiar K Dadabhoy | Non-Fiction | 4.5 | A short, crispy lifestory of a Bharat Ratna |
+| Azim Premji: The Man Beyond the Billions | Sundeep Khanna and Varun Sood | Non-Fiction | 3 | A view into Azim Premji's work life |
