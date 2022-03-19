@@ -7,7 +7,5 @@ main:
     url: /books
   - title: Projects
     url: /projects
-  - title: Find Vaccine
-    url: /vaccine-locator
   - title: "About"
     url: /about
