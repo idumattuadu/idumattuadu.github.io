@@ -47,3 +47,10 @@ There you were
 
 To grow old and make more meaningless memories<br>
 There you are not….
+
+## Forgotten
+
+Wretched Time is busy playing its dirty trick<br>
+Memories have begun to fade unsettlingly quick<br>
+Shenanigans that were enacted in collusion<br>
+Appear like a warped mind's desperate delusion
