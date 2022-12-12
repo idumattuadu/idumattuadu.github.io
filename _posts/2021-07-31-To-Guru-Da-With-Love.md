@@ -1,6 +1,6 @@
 ---
 title: To *Guru Da*, With Love
-date: 2021-08-17 17:23:05 +530
+date: 2020-08-17 17:23:05 +530
 description: A letter to a departed brother
 ---
 
