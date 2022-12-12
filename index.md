@@ -9,16 +9,16 @@ header:
   overlay_filter: "0.5"
   overlay_image: /images/bridge.jpeg
 intro: 
-  - excerpt: 'A place where I wax eloquent about travels, people, automobiles, gadgets or whatever catches my fancy. It generally takes a long time for the thoughts to travel from my mind to here; ergo the title of this site'
+  - excerpt: 'Welcome to *Idu Mattu Adu*, which means This And That in Kannada, a place where I wax eloquent about travels, people, automobiles, gadgets or whatever catches my fancy. Sometimes I make stuff up'
 feature_row:
-  - image_path: /images/Blog.jpeg
+  - image_path: /images/Blog.png
     alt: "Blog Image"
     title: "Blog"
     excerpt: "My thoughts, much procrastinated as they were."
     url: "/blog"
     btn_label: "Take Me To The Blog"
     btn_class: "btn--info"
-  - image_path: /images/Poems.png
+  - image_path: /images/Poems.jpeg
     alt: "Poems Image"
     title: "Poems"
     excerpt: "Random thoughts in forced rhymes. Are you brave enough to suffer my poems?"
