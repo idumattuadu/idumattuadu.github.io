@@ -86,9 +86,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : G-53XLJC63KC #
+    tracking_id          : # G-5LJ5Z80S24
     anonymize_ip         : false # true, false (default)
 
 
@@ -292,6 +292,6 @@ defaults:
 
 # My Scripts
 
-head_scripts:
-  - /assets/js/locateVaccine.js
-  - /assets/js/findRoute.js
+# head_scripts:
+  # - /assets/js/locateVaccine.js
+  # - /assets/js/findRoute.js
