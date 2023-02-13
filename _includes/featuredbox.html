@@ -1,0 +1,19 @@
+<!-- begin post -->
+<div class="col-md-3">
+    <div class="card">
+        <div class="row justify-content-end">
+            <div class="col-3 bg-dark text-white self-align-end">
+                {{ post.date | date_to_string }}
+            </div>
+        </div>
+        <div class="card-body text-center">
+            <div class="card-title">
+                <h5>{{ post.title }}</h5>
+            </div>
+            <p class="text-dark card-text">{{ post.excerpt | strip_html | truncatewords:25 }} </p>
+            <a href="{{ site.baseurl }}{{ post.url }}">Read More</a>
+        </div>
+    </div>
+</div>
+
+<!-- end post -->

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Physical Recalibrartion
 date: 2021-04-19 23:40:05 +0530
 description: What happens when a lethargic techie wants to recalibrate his physical appearance

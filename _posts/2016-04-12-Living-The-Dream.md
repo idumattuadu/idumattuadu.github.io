@@ -1,7 +1,7 @@
 ---
+layout: post
 title: Living The Dream
 date: 2016-04-12 17:55:05 +0530
-permalink: /blog/living-the-dream
 description: Long cherished dream of owning legendary Yamaha RX motorcycle
 ---
 

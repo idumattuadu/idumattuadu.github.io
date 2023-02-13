@@ -1,81 +1,82 @@
 ---
+title: Getting Leh'd
 gallery:
-  - image_path: /images/Leh/Leh_1.JPG
+  - image_path: /assets/images/Leh/Leh_1.JPG
     alt: "Leh1 Image"
     title: "Bengaluru Airport"
-    url: "/images/Leh/Leh_1.JPG"
-  - image_path: /images/Leh/Leh_2.JPG
+    url: "/assets/images/Leh/Leh_1.JPG"
+    active: True
+  - image_path: /assets/images/Leh/Leh_2.JPG
     alt: "Leh2 Image"
     title: "So it begins"
-    url: "/images/Leh/Leh_2.JPG"
-  - image_path: /images/Leh/Leh_3.JPG
+    url: "/assets/images/Leh/Leh_2.JPG"
+  - image_path: /assets/images/Leh/Leh_3.JPG
     alt: "Leh3 Image"
     title: "Stick it up"
-    url: "/images/Leh/Leh_3.JPG"
-  - image_path: /images/Leh/Leh_4.JPG
+    url: "/assets/images/Leh/Leh_3.JPG"
+  - image_path: /assets/images/Leh/Leh_4.JPG
     alt: "Leh4 Image"
     title: "Dal Lake"
-    url: "/images/Leh/Leh_4.JPG"
-  - image_path: /images/Leh/Leh_5.JPG
+    url: "/assets/images/Leh/Leh_4.JPG"
+  - image_path: /assets/images/Leh/Leh_5.JPG
     alt: "Leh5 Image"
     title: "Fountains"
-    url: "/images/Leh/Leh_5.JPG"
-  - image_path: /images/Leh/Leh_6.JPG
+    url: "/assets/images/Leh/Leh_5.JPG"
+  - image_path: /assets/images/Leh/Leh_6.JPG
     alt: "Leh6 Image"
     title: "The Gang"
-    url: "/images/Leh/Leh_6.JPG"
-  - image_path: /images/Leh/Leh_7.JPG
+    url: "/assets/images/Leh/Leh_6.JPG"
+  - image_path: /assets/images/Leh/Leh_7.JPG
     alt: "Leh7 Image"
     title: "Kargil Memorial"
-    url: "/images/Leh/Leh_7.JPG"
-  - image_path: /images/Leh/Leh_8.JPG
+    url: "/assets/images/Leh/Leh_7.JPG"
+  - image_path: /assets/images/Leh/Leh_8.JPG
     alt: "Leh8 Image"
     title: "The Martyrs"
-    url: "/images/Leh/Leh_8.JPG"
-  - image_path: /images/Leh/Leh_9.JPG
+    url: "/assets/images/Leh/Leh_8.JPG"
+  - image_path: /assets/images/Leh/Leh_9.JPG
     alt: "Leh9"
     title: "The House"
-    url: "/images/Leh/Leh_9.JPG"
-  - image_path: /images/Leh/Leh_10.JPG
+    url: "/assets/images/Leh/Leh_9.JPG"
+  - image_path: /assets/images/Leh/Leh_10.JPG
     alt: "Leh10 Image"
     title: "The Road"
-    url: "/images/Leh/Leh_10.JPG"
-  - image_path: /images/Leh/Leh_11.JPG
+    url: "/assets/images/Leh/Leh_10.JPG"
+  - image_path: /assets/images/Leh/Leh_11.JPG
     alt: "Leh11 Image"
     title: "Chang La"
-    url: "/images/Leh/Leh_11.JPG"
-  - image_path: /images/Leh/Leh_12.JPG
+    url: "/assets/images/Leh/Leh_11.JPG"
+  - image_path: /assets/images/Leh/Leh_12.JPG
     alt: "Pangyong"
     title: "Pangyong"
-    url: "/images/Leh/Leh_12.JPG"
-  - image_path: /images/Leh/Leh_13.JPG
+    url: "/assets/images/Leh/Leh_12.JPG"
+  - image_path: /assets/images/Leh/Leh_13.JPG
     alt: "Leh13"
     title: "Sunrise"
-    url: "/images/Leh/Leh_13.JPG"
-  - image_path: /images/Leh/Leh_14.JPG
+    url: "/assets/images/Leh/Leh_13.JPG"
+  - image_path: /assets/images/Leh/Leh_14.JPG
     alt: "Leh14 Image"
     title: "Khadrungla"
-    url: "/images/Leh/Leh_14.JPG"
-  - image_path: /images/Leh/Leh_15.JPG
+    url: "/assets/images/Leh/Leh_14.JPG"
+  - image_path: /assets/images/Leh/Leh_15.JPG
     alt: "Leh15 Image"
     title: "Camel"
-    url: "/images/Leh/Leh_15.JPG"
-  - image_path: /images/Leh/Leh_16.JPG
+    url: "/assets/images/Leh/Leh_15.JPG"
+  - image_path: /assets/images/Leh/Leh_16.JPG
     alt: "Leh16"
     title: "Apples"
-    url: "/images/Leh/Leh_16.JPG"
-  - image_path: /images/Leh/Leh_17.JPG
+    url: "/assets/images/Leh/Leh_16.JPG"
+  - image_path: /assets/images/Leh/Leh_17.JPG
     alt: "Leh17 Image"
     title: "Decisions"
-    url: "/images/Leh/Leh_17.JPG"
-  - image_path: /images/Leh/Leh_18.JPG
+    url: "/assets/images/Leh/Leh_17.JPG"
+  - image_path: /assets/images/Leh/Leh_18.JPG
     alt: "Leh18 Image"
     title: "Sarchu Tent"
-    url: "/images/Leh/Leh_18.JPG"
-title: Getting Leh'd
+    url: "/assets/images/Leh/Leh_18.JPG"
 date: 2021-04-15 21:29:10 +0530
-permalink: /blog/getting-lehd
 description: The most coveted bike trip. Exploring the mighty Himalayas on a Royal Enfield
+layout: post
 ---
 
 It was one of those typical days at work, I was struggling with segmentation fault bug, when my cellphone rang. “Guru, wanna go to Leh? On a bike?” I heard Ravi say with a palpable excitement in his voice. “Hell! yeah”, my response was instantaneous. He went on to give me further details on the plan but I wouldn’t remember any of that. It was only two words that I captured from that conversation — ‘Leh’ and ‘Bike’. Rest all was, as Penny says it, jibber-jabber. I believed Ravi would be more thorough than I ever could be in the planning department. All I needed to know was the date and time of departure. Ravi obliged willingly and kept me away from all the mundane yet very important tasks related to logistics while keeping me in the loop on a strictly need-to-know basis. So before we took off, I came to understand more details about the trip, whose summary was something like this: it would be six of us (Kumar, Bala, Ravi, Karthik, Ravi GK and yours truly) who’ll fly into Chandigarh. Four of the bikes, which would have been shipped from Bengaluru, will be waiting for us there. The other two, rented ones, would be handed over to us at Ropar where we would join the other group that had started its journey from Delhi. From there on we would embark upon an odyssey of unbridled ‘bike’thon, at the end of which we’d be back in Chandigarh and then fly back into Bengaluru. The trip would to be managed by the good folks at Devils on Wheels.
@@ -148,5 +149,3 @@ The tent at Sarchu was freezing cold. We put on at least three layers of winter 
 The early morning ride towards Manali was turning out to be the coldest of them all. The fingers were almost numb even when they were wrapped with two pairs of gloves and the chilly wind was piercing in through my two heavy jackets. Adding to our agony were the roads(or the lack of them) to Rohtang Pass. But the sheer picturesque landscape with the superbly contrasting snow gingered on the mountains and the thrill of riding through them would put all the pain and tribulations into the background. The descent from Rohtang Top, with significantly improved roads, would prove to be one of best rides of the trip. With oxygen being no more a constraint the Classic also began to the enthusiast mounted on it. However, while the roads were well paved and maintained they were too narrow for any overtaking adventures. This restricted us from overtaking a convoy of Sumos. As the sparkling white Sumos lead us into Manali town, it felt like we were all playing a part in a Telugu movie!
 
 The ride from Manali to Chandigarh was exhilarating. It was to be the last day on the road for the Bengaluru gang and we rode with gusto. We raced against each other to the utter dismay of oncoming truck drivers. The twisties on the road added to our feeling of the proverbial child in the candy store. The potholes filled stretches were glossed over and revved through with gay abandon. And when we hit superbly maintained NH21 we were at the pinnacle of our joyous adventure and couldn’t keep our wrists from wringing the accelerators to the maxima. As we entered the crowded, Friday evening, Chandigarh traffic to its utter amusement, the victorious ear-to-ear grin was stuck firmly on our proud faces. WE HAD DONE IT!
-
-{% include gallery %}

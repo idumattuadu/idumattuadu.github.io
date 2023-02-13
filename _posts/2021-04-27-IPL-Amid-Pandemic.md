@@ -1,4 +1,5 @@
 ---
+layout: post
 header:
     overlay_color: "#333"
 excerpt: "Is it wise to hold the IPL amidst a raging *chinese virus* pandemic"

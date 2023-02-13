@@ -1,7 +1,7 @@
 ---
+layout: post
 title:  "Extraordinary Life Of An Ordinary Woman"
 date:   2019-05-05 22:38:39 +0530
-permalink: /blog/extraordinary-life
 description: Story of an ordinary woman from Tamil Nadu who overcame extraordinary circumstances during life in a village in Karnataka
 ---
 

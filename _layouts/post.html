@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="text-dark fs-5">
+    <p><h1 class="text-center">{{ page.title }}</h1></p>
+    {% if page.gallery %}
+        {% include gallery.html %}
+    {% endif %}
+    {{ content }}
+</div>
+<span>
+    <a href="https://twitter.com/intent/tweet?via={{ site.twitter_username }}&text={{ page.title }} {{ site.url }}{{page.url}}" role="button" class="btn btn-light"
+        onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;">
+        <i class="bi bi-twitter" style="font-size: 2rem; color: cornflowerblue;"></i>
+    </a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{page.url}}" role="button" class="btn btn-light"
+        onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;">
+        <i class="bi bi-facebook" style="font-size: 2rem; color: cornflowerblue;"></i>
+    </a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{page.url}}" role="button" class="btn btn-light"
+        onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;">
+        <i class="bi bi-linkedin" style="font-size: 2rem; color: cornflowerblue;"></i>
+    </a>
+</span>
+  

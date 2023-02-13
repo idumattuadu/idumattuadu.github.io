@@ -1,7 +1,7 @@
 ---
+layout: post
 title: The Last Gentleman Departs
 date: 2012-03-11 18:00:05 +0530
-permalink: /blog/the-last-gentleman
 description: A tribute to The Great Wall of the Cricket - Rahul Dravid
 ---
 

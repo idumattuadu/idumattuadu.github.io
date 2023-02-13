@@ -1,7 +1,7 @@
 ---
+layout: post
 title: Playing Mr. Wolf
 date: 2021-02-18 17:52:53 +0530
-permalink: /blog/being-wolf
 description: What to do when you are embarrassed by the praise for an mundane task accomplished
 ---
 

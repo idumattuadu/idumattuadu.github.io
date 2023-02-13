@@ -1,6 +1,7 @@
 ---
-title: To *Guru Da*, With Love
-date: 2020-08-17 17:23:05 +530
+layout: post
+title: To Brother, With Love
+date: 2021-07-31 17:23:05 +530
 description: A letter to a departed brother
 ---
 

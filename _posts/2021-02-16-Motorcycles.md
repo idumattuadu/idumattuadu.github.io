@@ -1,7 +1,7 @@
 ---
-title: Reductio Ad Absurdum - Motorcycles
+layout: post
+title:  Motorcycles, Why?
 date: 2021-02-16 23:11:15 +0530
-permalink: /blog/motorcycles
 description: Why we love Motorcycles? Explained
 ---
 

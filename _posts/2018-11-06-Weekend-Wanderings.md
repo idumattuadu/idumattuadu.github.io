@@ -1,7 +1,7 @@
 ---
+layout: post
 title: Weekend Wanderings
 date: 2018-01-06 14:47:05 +0530
-permalink: /blog/weekend-wanderings
 description: A weekend road trip to Murudeshwara from Bengaluru
 ---
 
