@@ -11,7 +11,7 @@ Now, this changed after my short and quickly (un)planned trip over the *Dasara* 
 
 It was three of us, let’s say G, R and H, who had decided that we will not idle away the *Dasara* weekend, being couch potatoes and binging on some seemingly endless (and pointless) TV drama. So, we got on the phone the week before and began discussing about going to *Chikkamagaluru* on our bikes and explore the places around there. But, soon it was apparent that three days could be an overkill for this sojourn. It could be done any regular weekend, it was thought. While *Coorg* was also being considered, out of nowhere came the suggestion that we go to *Murudeshwara* and then decide from there. It was also agreed that we’d drive up there instead of riding, to the collective sigh of relief from our bums. The driving route was finalized and the hotel stay at *Murudeshwara* was booked. The prospect of a long drive and beach lured me in, R was happy that we could stay busy for three days and H was ready to overcome his fear of long drives at the prospect of Scuba diving in there. We had no clues if it was still a thing there though.
 
-![The Route](/images/route.jpeg)
+![The Route](/assets/images/route.jpeg)
 
 It was supposed to be an early morning start on Friday the 19th. And I needed a strong dose of filter Coffee to kick me out of my slumber before I could hit the road. R’s mother generously and lovingly obliged and we were on the road before sunrise. With R at the steering, H had neatly snuck into the backseat to complete his sleep. And I, sitting on the front passenger seat, was trying to keep my body under control. You see, the festival special meals that my masterchef Cook had prepared the day before hadn’t found my tummy entirely friendly. With the sleep deprivation during the intervening night, the matters had only escalated and by morning there was an ongoing war inside me, making me cringe and fret. I soldiered on, however, giving R company and finding things on the road to discuss and make fun of. Soon, we were approaching Tumakuru and I suggested that we take a break to let me negotiate peace with my enemy in the tummy and provide it an honorable exit. R obliged and we stopped at the Kamat Yatri Nivas next to the highway.
 
@@ -21,11 +21,11 @@ I switched over to the steering wheel at the next pitstop after a couple of hour
 
 We reached *Murudeshwara* around 4, checked into the hotel and washed up. We ventured out to seek the blessings from the deity at the temple and turned back after encountering the humongous queue there. We thought of watching the sunset from the beach but were turned off looking at the large, boisterous crowd there. By the team we could reach a secluded area on the beach, the Sun would well have sunk in, it was thought. We went to back to the hotel room and tried watching the Sunset from the balcony and found a tree that was obstructing the view. Right then, H had a brainwave and suggested we go to the Hotel terrace for the unobstructed terrace. The view from there was majestic with the a seeming large Red ball disappearing into the womb of the ocean. R had a chance to give his a Camera a decent workout and he’s usually not the one to miss it.
 
-![sunset](/images/sunset.jpeg)
+![sunset](/assets/images/sunset.jpeg)
 
-![sunset2](/images/sunset2.jpeg)
+![sunset2](/assets/images/sunset2.jpeg)
 
-![shiva](/images/shiva.jpeg)
+![shiva](/assets/images/shiva.jpeg)
 
 We ventured out to the beach, after dark and after the crowd had dissipated. To find that there was no beach sand to speak of was kind of disappointing to say the least. After spending sometime there we went to the Temple again and this time Shiva was in a generous mood and granted us his allowed us enter his abode in quick time. Next thing was dinner. We went to a restaurant that was recommended by our Hotel staff because H wanted to taste some fish. He ordered the fish there and was disappointed because it was available but turned out disappointing; I ordered curd rice and was disappointed because it was unavailable and that was disappointing too. Soon, we found that our man from the deep sea had come ashore and we met him after dinner, stuck a deal to get us into the sea. As we retired into the night, the excitement about us going underwater was palpable!
 
@@ -35,13 +35,13 @@ It appeared like the instructors and ASDs were a community in their own right. T
 
 But before that could begin, we had to wait! There were about ten people before I could get a chance at my love affair. Each person would take about an hour and there were three instructors who would each take one person at a time. So I had to wait a good three to four hours before I could take the holy dip! I idled way these hours by floating on this wonderfully humongous swimming pool that Nature has bestowed upon us — with a life jacket of course! And then the moment arrived.
 
-![ocean](/images/ocean.jpeg)
+![ocean](/assets/images/ocean.jpeg)
 
-![island](/images/island.jpeg)
+![island](/assets/images/island.jpeg)
 
-![fishing](/images/fishing.jpeg)
+![fishing](/assets/images/fishing.jpeg)
 
-![chilling](/images/chilling.jpeg)
+![chilling](/assets/images/chilling.jpeg)
 
 I was sure that I remembered most of the instructions that were given to us on the boat and I felt confident of handling myself deep down. Soon, I was kitted up and thrown into the water. My instructor tested if I could handle the regulator well and I passed. She asked me if I was ready to go in and I nodded. We began descending and I could see stuff in the water clearly. She would point me to fishes and I would reply with a hand gesture that said it was lovely. But as we descended further down, I began feeling an acute pain in my ears. This was expected as was explained on the boat and there were instructions given to mitigate this. Obviously I was failing. When pain reached unbearable level, she brought me up. There she taught me the steps to mitigate again and having got a go ahead from me took me into the water again. This time my ears were faring a little better. And soon we come to a place where I could see the big rocks on the ocean surface and large contingent of fishes of many varieties. We hung around there for a while, watching fishes, shooting videos and then it was over. Apparently I had spent a good 40 mins in the water but the thing felt like it was over in a jiffy. Overall, I had a mixed feelings about the thing. The ‘Love affair’ I was hoping to begin, I wasn’t sure of it anymore! May be two time’s the charm.
 
@@ -51,15 +51,15 @@ Next day morning the plan was simple — clean-up, temple, checkout, home — al
 
 We left *Udupi* after breakfast. I was at the driving wheel because I wanted to drive through what was supposed to be the wonderful Kuduremukha mountain range. And the drive was indeed as wonderful as it promised out to be. The twisty roads, surrounded my mountains, are a driver’s delight. Add to it the almost non-existent traffic, with a car here a bus there. I haven’t had so much fun behind a driving wheel ever before. While I was consumed by the drive, R was busy giving his Camera a serious workout. I’ll let the pictures do the explaining.
 
-![view](/images/view1.jpeg)
+![view](/assets/images/view1.jpeg)
 
-![corner](/images/corner.jpeg)
+![corner](/assets/images/corner.jpeg)
 
-![dip](/images/dip.jpeg)
+![dip](/assets/images/dip.jpeg)
 
-![waterfall](/images/waterfall.jpeg)
+![waterfall](/assets/images/waterfall.jpeg)
 
-![bridge](/images/bridge.jpeg)
+![bridge](/assets/images/bridge.jpeg)
 
 Just after we exited the forest we found, we stopped for a tea at a shop run buy a friendly lady. She offered to fry some Mirchi Bhajjis for us with Mirchis of our choosing. It was an offer that we couldn’t refuse and we devoured quite a few those lovely little hot things. Even H who was being cautious about what he ate due to his motion sickness joined in the feast. But it turned out to be fateful for him. He spent much of the remaining drive retching!
 
