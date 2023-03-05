@@ -3,7 +3,6 @@ layout: page
 title: Subscribe
 permalink: /subscribe
 ---
-<div class="text-center mt-5 mb-5">
 <form
     action="https://api.follow.it/subscription-form/Q3E3YXVVSGxqQXNKOXhBZk9XQmU0cnV1aENlYlA1SkdhdzZhZ2J1NmI0SzBmbHpHUFNGS25tU1Uva0N3MzRHbFZrcUZ3b3p4bnN1a3c3M0YzbVY3NkloQUQrMGdGS0FTL1JQb0x5RnF5cTB4YnhvaGRRMlJQUEJMdVBBMG1ORWF8b21PUHJ3a1dBNGlWRDVQVnAzUHFOZExxR0s3MytSS0pzSEl0TC92KzJ0VT0=/8"
     method="post">
@@ -13,4 +12,3 @@ permalink: /subscribe
         <button type="submit" class="btn btn-primary mx-3"> Subscribe </button>
     </a>
 </form>
-</div>

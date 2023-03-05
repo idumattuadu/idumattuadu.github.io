@@ -3,8 +3,8 @@
 title: Poems
 permalink: /Poems
 ---
-<div class="text-center">
-    <h2 class="mt-3">Freedom</h2>
+
+## Freedom
 
 
 You bring me joy<br>
@@ -19,7 +19,7 @@ But when I am with you<br>
 The realisation is quite sudden<br>
 You are but a fruit forbidden!<br>
 
-<h2 class="mt-3">Brother</h2>
+## Brother
 
 To save my bum from getting kicked for the fake bravado I demonstrated<br>
 There you were<br>
@@ -48,11 +48,9 @@ There you were<br>
 To grow old and make more meaningless memories<br>
 There you are not….
 
-<h2 class="mt-3">Forgotten</h2>
+## Forgotten
 
 Wretched Time is busy playing its dirty trick<br>
 Memories have begun to fade unsettlingly quick<br>
 Shenanigans that were enacted in collusion<br>
 Appear like a warped mind's desperate delusion
-
-</div>
