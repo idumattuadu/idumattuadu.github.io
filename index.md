@@ -7,7 +7,7 @@ title: Home
 ---
 
 <div class="home text-center mt-3">
-  <h4 class="page-heading fw-light"> <i>Idu Mattu Adu</i> means <i>This And That</i> in <i>Kannada</i></h4>
+  <h4 class="page-heading fw-light"> Idu Mattu Adu means This And That in <i>Kannada</i></h4>
 
   {%- if site.posts.size > 0 -%}
     <div class="row g-5 mt-3">
@@ -16,7 +16,7 @@ title: Home
     {% endfor %}
     </div>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
   {%- endif -%}
 
 </div>

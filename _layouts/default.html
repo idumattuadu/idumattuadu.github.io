@@ -7,12 +7,12 @@
     
     {% include google-analytics.html %}
 
-    <link rel="icon" href="{{ site.baseurl }}/assets/images/GK.png">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
-    <title>{{ page.title }} | {{site.name}}</title>
+    <title>{{site.name}} - Read about this and that </title>
 
     {% seo %}
-    
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
@@ -22,24 +22,23 @@
 <body>
     <nav class="navbar navbar-expand-lg bg-body-tertiary bg-light sticky-top">
         <div class="container">
-          <a class="navbar-brand" href="{{ site.baseurl }}/ ">{{ site.title }}</a>
+          <a class="navbar-brand" href="{{ site.baseurl }}/ "><h4>{{ site.title }}</h4></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
 
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                {% for navitem in site.data.navitems.main %}
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="{{site.baseurl}}/">Home</a>
+                    <a class="nav-link" aria-current="page" href="{{ navitem.url | absolute_url }}">{{ navitem.title }}</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="{{site.baseurl}}/about">About</a>
-                </li>
+                {% endfor %}
             </ul>
-            <form class="d-flex" role="search">
+            <!-- <form class="d-flex" role="search">
               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
               <button class="btn btn-outline-success" type="submit">Search</button>
-            </form>
+            </form> -->
           </div>
         </div>
     </nav>
@@ -54,6 +53,13 @@
     <!-- Begin Footer -->
     {% include footer.html %}
     <!-- End Footer -->
-</body>
-
+    <script>
+      $(function () {
+          $('nav li a').filter(function () {
+              return this.href === location.href;
+          }).addClass('active');
+      });
+    </script>
+    
+  </body>
 </html>

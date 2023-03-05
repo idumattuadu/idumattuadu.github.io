@@ -6,7 +6,7 @@ description: Why we love Motorcycles? Explained
 ---
 
 I deeply concur with what Sid Caesar had to say about wheels. While he said it in the context of four, I am going to use it for two. So, to paraphrase, 
->*The guy who invented the first wheel was an idiot. The guy who invented the next one was a genius!*
+> "*The guy who invented the first wheel was an idiot. The guy who invented the next one was a genius!*"
 
 Ever since I popped an unintentended wheelie, my father seated behind trying to instruct, during my first tryst with controlling a motorcycle, I have been in love with a motorized two wheeler. As I grew older and peeked into the world through that wonderful invention generally known as Internet, I have found that there are millions of men across the world who are passionately and hopelessly in love with this mesmerizing combination of mostly metal and rubber. Why? I try to reason.
 

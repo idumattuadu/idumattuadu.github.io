@@ -1,0 +1,8 @@
+main:
+  - title: Poems
+    url: /poems
+  - title: Subscribe
+    url: /subscribe
+  - title: About
+    url: /about
+  
