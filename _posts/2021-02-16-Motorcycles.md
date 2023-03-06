@@ -18,7 +18,7 @@ I could be totally wrong with both the arguments and, may be, it’s a matter of
 
 But then, I may have indulged in this rigmarole for nothing. Because, it's only on two wheelers, that you can chase a rainbow and pose with it!
 
-![ktm_rainbow](/images/ktm_rainbow.JPG)
+![ktm_rainbow](/assets/images/ktm_rainbow.jpeg)
 
 As a wise man once said,
 >*Four wheels move the body; Two wheels move the soul* 
