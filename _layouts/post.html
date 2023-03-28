@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<div class="text-dark fs-5">
+<div class="text-dark fs-4">
     <p><h2 class="text-center">{{ page.title }}</h2></p>
-    <h6 class="text-center text-muted"> {{ page.author }} {{ page.date | | date_to_string }} </h6>
-    <p class=mt-5></p>
+    <h6 class="text-center text-muted"> {{ page.author }} | {{ page.date | | date_to_string }} </h6>
+    <p class=mt-4></p>
     {% if page.gallery %}
         {% include gallery.html %}
     {% endif %}

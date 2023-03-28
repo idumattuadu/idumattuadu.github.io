@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Poems
-permalink: /poems
+title: ಕನ್ನಡ
+permalink: /kannada
 ---
 
 <div class="home text-center mt-3">
-  <h2 class="page-heading fw-light"> Poems </h2>
+  <h2 class="page-heading fw-light"> ಕನ್ನಡ ಬರಹಗಳು </h2>
 
   {%- if site.posts.size > 0 -%}
     <div class="row g-5 mt-3">
-    {% for post in site.poems %}
+    {% for post in site.kannada %}
        {% include featuredbox.html %}
     {% endfor %}
     </div>

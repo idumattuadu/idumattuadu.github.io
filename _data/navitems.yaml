@@ -1,8 +1,9 @@
 main:
+  - title: ಕನ್ನಡ 
+    url: /kannada
   - title: Poems
     url: /poems
   - title: Subscribe
     url: /subscribe
   - title: About
     url: /about
-  
