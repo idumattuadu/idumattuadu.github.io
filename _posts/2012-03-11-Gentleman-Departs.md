@@ -2,7 +2,7 @@
 layout: post
 title: The Last Gentleman Departs
 date: 2012-03-11 18:00:05 +0530
-description: A tribute to The Great Wall of the Cricket - Rahul Dravid
+description: A tribute to The Great Wall of Cricket - Rahul Dravid
 ---
 
 During one of the India’s Test matches against West Indies, a commentator was comparing the Test averages and strike rates of Virender Sehwag and Rahul Dravid. Consequently, a question was asked as to who’d, a cricket fan, pay to watch batting. Sehwag, declared one of the two all-wise men behind the microphone. But the other wasn’t happy with the answer, or so it seemed. He put forth a subsequent question and asked, who would he, the second commentator, like to bat for his LIFE. Rahul Dravid, came the answer rather sheepishly with a nervous smile.
