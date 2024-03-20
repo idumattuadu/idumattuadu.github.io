@@ -2,9 +2,10 @@
 layout: post
 title: A Hot Winter
 date: 2022-12-12 23:23:05 +530
-description: A winter gets very hot for some boys in a village
-excerpt: A winter gets very hot for some boys in a village
+description: A winter gets very hot for a group of boys in a village.
+excerpt: A winter gets very hot for a group of boys in a village. They have to face a board exam, unexpectedly, for the first time.
 ---
+<img src="/assets/images/Hot_Winter.jpeg" class="rounded mx-auto img-thumbnail d-block col-md-4" alt="hot_winter" />
 
 The winter of 1996 was a picture of peaceful serenity in Bagdal, a village in north Karnataka. Night temperatures had dropped to single digits. The bonfires lit up using dried *toor* or *sesame* plants were a common sight at nights in the front-yards of most of the houses in the village. Families would sit around the fire after dinner, extending their hands, palms facing the fire to warm themselves before tucking into their ragged blankets. When the elders were not around, young boys would play a game of hand through the fire. They would challenge each other to move their hands through the fire to prove they were fire resistant. Sometimes they would get burnt attempting it. The trick to a successful show was to move the hand swiftly through the fire, first at the top then a little lower in the subsequent attempts. They would narrate their fire conquests in lurid details to their friends in the school the next morning.
 
