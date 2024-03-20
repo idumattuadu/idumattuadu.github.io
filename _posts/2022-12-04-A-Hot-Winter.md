@@ -1,5 +1,8 @@
 ---
 layout: post
+image:
+    path: /assets/images/Hot_Winter.jpeg
+    alt: Hot Winter
 title: A Hot Winter
 date: 2022-12-12 23:23:05 +530
 description: A winter gets very hot for a group of boys in a village.
