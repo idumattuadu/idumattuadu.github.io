@@ -29,3 +29,27 @@ layout: default
         </a>
     </span>
 </div>
+
+<!-- Previous and Next Posts Navigation -->
+<div class="row mt-5 mb-5">
+    <div class="col-md-6">
+        {% if page.previous %}
+        <div class="text-start">
+            <p class="text-muted mb-1">← Previous post</p>
+            <a href="{{ page.previous.url | absolute_url }}" class="text-decoration-none">
+                <h6>{{ page.previous.title }}</h6>
+            </a>
+        </div>
+        {% endif %}
+    </div>
+    <div class="col-md-6">
+        {% if page.next %}
+        <div class="text-end">
+            <p class="text-muted mb-1">Next post →</p>
+            <a href="{{ page.next.url | absolute_url }}" class="text-decoration-none">
+                <h6>{{ page.next.title }}</h6>
+            </a>
+        </div>
+        {% endif %}
+    </div>
+</div>
